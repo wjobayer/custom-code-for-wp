@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boost My Repair</title>
+  </head>
+  <body>
+    <div style="width: 33%; padding: 25px; background-color: #f4f9fc">
+      <div>
+        <h5 style="font-size: 20px; margin-bottom: 0px; padding-bottom: 0px">
+          Selected Repair
+        </h5>
+        <hr
+          align="left"
+          style="color: #222222; border: 2px solid black; width: 46px"
+        />
+        <li
+          style="
+            list-style-type: none;
+            border-bottom: 0.5px solid #bbd5ec;
+            padding: 10px 0px;
+            display: flex;
+            margin-top: 25px;
+          "
+        >
+          <a
+            href="#"
+            style="text-decoration: none; color: #222222; margin-right: auto"
+            >Device</a
+          >
+          <span style="text-align: right; margin-left: auto; color: #6f8ba4"
+            >iPhone 13 Pro Max</span
+          >
+        </li>
+        <li
+          style="
+            list-style-type: none;
+            border-bottom: 0.5px solid #bbd5ec;
+            padding: 10px 0px;
+            display: flex;
+          "
+        >
+          <a
+            href="#"
+            style="text-decoration: none; color: #222222; margin-right: auto"
+            >Problem</a
+          >
+          <span style="text-align: right; margin-left: auto; color: #6f8ba4"
+            >Broken LCD</span
+          >
+        </li>
+        <li
+          style="
+            list-style-type: none;
+            border-bottom: 0.5px solid #bbd5ec;
+            padding: 10px 0px;
+            display: flex;
+          "
+        >
+          <a
+            href="#"
+            style="text-decoration: none; color: #222222; margin-right: auto"
+            >Warrenty</a
+          >
+          <span style="text-align: right; margin-left: auto; color: #6f8ba4"
+            >90 days</span
+          >
+        </li>
+        <li
+          style="
+            list-style-type: none;
+            border-bottom: 0.5px solid #bbd5ec;
+            padding: 10px 0px;
+            display: flex;
+          "
+        >
+          <a
+            href="#"
+            style="text-decoration: none; color: #222222; margin-right: auto"
+            >Timeframe</a
+          >
+          <span style="text-align: right; margin-left: auto; color: #6f8ba4"
+            >30-45 min</span
+          >
+        </li>
+      </div>
+      <div>
+        <h5 style="font-size: 20px; margin-bottom: 0px; padding-bottom: 0px">
+          Why to Choose Us?
+        </h5>
+        <hr
+          align="left"
+          style="color: #222222; border: 2px solid black; width: 46px"
+        />
+        <p style="color: #6f8ba4; line-height: 1.8; margin-top: 25px">
+          Premium Quality Parts
+          <br />
+          Certified Techs
+          <br />
+          Lowest Prices in Town
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
